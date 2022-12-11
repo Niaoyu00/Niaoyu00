@@ -1,0 +1,1 @@
+import{_ as t,V as s,W as o,X as e,Y as r}from"./framework.f50e9d47.js";const a={},n=e("h1",{id:"关于我",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#关于我","aria-hidden":"true"},"#"),r(" 关于我")],-1),c=e("p",null,"你好 这是我第一个 vuepress 博客",-1),_=[n,c];function d(i,l){return s(),o("div",null,_)}const f=t(a,[["render",d],["__file","intro.html.vue"]]);export{f as default};

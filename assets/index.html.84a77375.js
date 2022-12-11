@@ -1,0 +1,1 @@
+import{_ as e,V as t,W as n,Z as o,X as a}from"./framework.f50e9d47.js";const c={},r=a("p",null,"这是一个博客主页的底部,是 markdown 写的内容,所以在末尾也会显示.",-1);function s(_,l){return t(),n("div",null,[o(' <Badge type="tip" text="测试组件" vertical="top" /> '),r])}const i=e(c,[["render",s],["__file","index.html.vue"]]);export{i as default};

@@ -1,0 +1,1 @@
+import{_ as e,V as t,W as s,X as n}from"./framework.f50e9d47.js";const o={},a=n("p",null,"尝试了解unity热更新时，总会看到ab包、Addressables、AssetBundle、xlua等关键字，但是没深入了解的话很难搞清楚这几个是啥关系。 今天我就尝试去缕一缕！",-1),_=[a];function c(l,r){return t(),s("div",null,_)}const u=e(o,[["render",c],["__file","unityhotUpdate.html.vue"]]);export{u as default};
